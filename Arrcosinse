@@ -1,0 +1,5 @@
+def file_cosine(x, epsilon):
+	 x / sqrt(max(sum(x**2), epsilon)
+
+def __init__ == 'main':
+	print (file_cosine(2, 1e-12))
